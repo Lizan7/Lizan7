@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Lizan Shrestha.
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in gaining more knowledge in the IT industry.
+- 🌱 I’m currently learning react and node.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through my instagram.
+- 📫 You can reach me through my linked in.
+  
 
 <!---
 Lizan7/Lizan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
