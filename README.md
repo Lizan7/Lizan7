@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lizan Shrestha.
 - 👀 I’m interested in gaining more knowledge in the IT industry.
 - 🌱 I’m currently learning react and node.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my linked in.
   
 
