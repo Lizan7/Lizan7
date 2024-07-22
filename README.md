@@ -68,7 +68,7 @@ Contributed to the frontend development of IIC resources.
 
 ## Get in Touch
 
-- LinkedIn: [Lizan Shrestha](https://www.linkedin.com/in/lizan-shrestha/)
+- LinkedIn: [Lizan Shrestha](https://www.linkedin.com/in/lizan-shrestha-a26618208/)
 - Email: [lizanstha777@gmail.com](mailto:lizanstha777@gmail.com)
 
 ---
