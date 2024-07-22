@@ -4,12 +4,16 @@
 
 ## About Me
 
+![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 - 🎓 Teaching Assistant with a focus on development work (60%) and teaching (40%).
 - 🌱 Currently learning **React** and **Node.js**.
 - 💡 Interested in gaining more knowledge in the IT industry.
 - 🌐 Exploring UI/UX design and working on front-end development.
 
 ## Skills & Technologies
+
+![Skills GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks/Libraries**: React.js
@@ -30,6 +34,14 @@ Contributed to the frontend development of IIC resources.
 ## Contribution Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lizan7&theme=react-dark&hide_border=true&area=true)
+
+## GitHub Stats
+
+![Lizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizan7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizan7&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizan7&theme=radical)
+
+![GitHub Stats](https://your-image-url)
 
 ## Get in Touch
 
