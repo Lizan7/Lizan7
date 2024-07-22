@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Lizan+Shrestha%E2%9C%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Lizan+Shrestha%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lizan7&color=blue)
 
-![Skills GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+![Skills GIF](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)
 
 ## About Me
 
