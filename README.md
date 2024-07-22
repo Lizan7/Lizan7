@@ -1,55 +1,78 @@
-# Hi, I'm Lizan Shrestha 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Lizan+Shrestha%E2%9C%8B)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lizan7&color=blue)
 
+![Skills GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
 ## About Me
 
-![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+I'm a dedicated frontend developer with a strong background in UI/UX design and a passion for learning new technologies.
 
-- 🎓 Teaching Assistant with a focus on development work (60%) and teaching (40%).
+- 🎓 **Teaching Assistant** with a focus on development work (60%) and teaching (40%).
 - 🌱 Currently learning **React** and **Node.js**.
 - 💡 Interested in gaining more knowledge in the IT industry.
 - 🌐 Exploring UI/UX design and working on front-end development.
 
 ## Skills & Technologies
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React.js
-- **Tools**: GitHub, Figma
-- **Other Skills**: UI/UX Design
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks/Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-18A34A?style=for-the-badge&logo=figma&logoColor=white)
+
+### Other Skills
+- UI/UX Design
 
 ## Projects
 
-### [Lizan7](https://github.com/Lizan7/Lizan7)
-Configuration files for my GitHub profile.
-
 ### [React-Setup](https://github.com/Lizan7/React-Setup)
-Starter setup for React projects.
+A starter setup for React projects.
 
 ### [IIC-Resource-Frontend](https://github.com/subin1raji/IIC-Resource-Frontend)
 Contributed to the frontend development of IIC resources.
 
-## Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lizan7&theme=react-dark&hide_border=true&area=true)
-
 ## GitHub Stats
 
-![Lizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizan7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizan7&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizan7&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lizan7&show_icons=true&theme=radical" alt="Lizan's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lizan7&layout=compact&theme=radical" alt="Top Langs"/>
+</div>
 
-![GitHub Stats](https://your-image-url)
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lizan7&theme=radical" alt="GitHub Streak"/>
+</div>
+
+## Achievements
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px; background-color: #f9f9f9; max-width: 300px; text-align: center;">
+    <a href="https://github.com/Lizan7">
+      <img src="https://github-profile-trophy.vercel.app/?username=Lizan7&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Achievements"/>
+    </a>
+  </div>
+  
+  <!-- Add more achievements here if needed -->
+  
+</div>
 
 ## Get in Touch
 
 - LinkedIn: [Lizan Shrestha](https://www.linkedin.com/in/lizan-shrestha/)
-- Email: your-email@example.com
-
-## Achievements
-
-![GitHub Achievements](https://github.com/Lizan7)
+- Email: [lizanstha777@gmail.com](mailto:lizanstha777@gmail.com)
 
 ---
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+---
