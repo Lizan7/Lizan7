@@ -13,8 +13,6 @@
 
 ## Skills & Technologies
 
-![Skills GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks/Libraries**: React.js
 - **Tools**: GitHub, Figma
