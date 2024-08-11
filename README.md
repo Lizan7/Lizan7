@@ -35,9 +35,6 @@ I'm a dedicated frontend developer with a strong background in UI/UX design and 
 
 ## Projects
 
-### [React-Setup](https://github.com/Lizan7/React-Setup)
-A starter setup for React projects.
-
 ### [IIC-Resource-Frontend](https://github.com/subin1raji/IIC-Resource-Frontend)
 Contributed to the frontend development of IIC resources.
 
