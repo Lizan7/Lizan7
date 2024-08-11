@@ -41,6 +41,9 @@ A starter setup for React projects.
 ### [IIC-Resource-Frontend](https://github.com/subin1raji/IIC-Resource-Frontend)
 Contributed to the frontend development of IIC resources.
 
+### Contribution Chart
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lizan7&bg_color=2f1824&color=9e4c98&line=9e4c98&point=1a9e6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## GitHub Stats
 
 <div align="center">
